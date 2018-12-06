@@ -51,16 +51,19 @@
     <Compile Include="Topic3_JumpStatement\BreakStatement.cs" />
     <Compile Include="Topic3_JumpStatement\GotoStatement.cs" />
     <Compile Include="Topic3_JumpStatement\ReturnStatement.cs" />
-    <Compile Include="Tpoic1_Variables\VariablesDecla.cs" />
-    <Compile Include="Tpoic2_Conditionals\DowhileCondi.cs" />
-    <Compile Include="Tpoic2_Conditionals\Foreachloop.cs" />
-    <Compile Include="Tpoic2_Conditionals\forloop.cs" />
-    <Compile Include="Tpoic2_Conditionals\ifCond.cs" />
-    <Compile Include="Tpoic2_Conditionals\SwithCondi.cs" />
-    <Compile Include="Tpoic2_Conditionals\whilecondi.cs" />
+    <Compile Include="Topic1_Variables\VariablesDecla.cs" />
+    <Compile Include="Topic2_Conditionals\DowhileCondi.cs" />
+    <Compile Include="Topic2_Conditionals\Foreachloop.cs" />
+    <Compile Include="Topic2_Conditionals\forloop.cs" />
+    <Compile Include="Topic2_Conditionals\ifCond.cs" />
+    <Compile Include="Topic2_Conditionals\SwithCondi.cs" />
+    <Compile Include="Topic2_Conditionals\whilecondi.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Topic4_Arrays\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
