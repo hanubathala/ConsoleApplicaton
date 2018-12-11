@@ -12,7 +12,7 @@ namespace ConsoleApplication1.Topic3_JumpStatement
         static void Main()
         {
 
-            int a = 5,b = 10;
+            int a = 5;
             Console.WriteLine("Break Statement Works");
             for (int i = 1; i <= 5; i++)
             {

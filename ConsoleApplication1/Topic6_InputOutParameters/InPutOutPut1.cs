@@ -16,6 +16,7 @@ namespace ConsoleApplication1.Topic6_InputOutParameters
             Add1(10);
             Add1(100, 200, 300);
             Console.WriteLine("Testing");
+            Console.ReadLine();
         }
     }
 }

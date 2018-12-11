@@ -1,11 +1,6 @@
-F:\HH\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-F:\HH\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-F:\HH\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-F:\HH\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-F:\HH\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-F:\ConsoleApplicaton\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-F:\ConsoleApplicaton\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-F:\ConsoleApplicaton\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-F:\ConsoleApplicaton\ConsoleApplication1\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
-F:\ConsoleApplicaton\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-F:\ConsoleApplicaton\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ram\Documents\GitHub\ConsoleApplicaton\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ram\Documents\GitHub\ConsoleApplicaton\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ram\Documents\GitHub\ConsoleApplicaton\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ram\Documents\GitHub\ConsoleApplicaton\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ram\Documents\GitHub\ConsoleApplicaton\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ram\Documents\GitHub\ConsoleApplicaton\ConsoleApplication1\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache

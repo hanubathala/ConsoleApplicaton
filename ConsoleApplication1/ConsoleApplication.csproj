@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ConsoleApplication1</RootNamespace>
     <AssemblyName>ConsoleApplication1</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApplication1.Topic3_JumpStatement.ReturnStatement</StartupObject>
+    <StartupObject>ConsoleApplication1.Topic7_Interface.Testing4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -58,6 +59,25 @@
     <Compile Include="Topic2_Conditionals\ifCond.cs" />
     <Compile Include="Topic2_Conditionals\SwithCondi.cs" />
     <Compile Include="Topic2_Conditionals\whilecondi.cs" />
+    <Compile Include="Topic5_OOPS\ClassDeclaration.cs" />
+    <Compile Include="Topic5_OOPS\ConstructorCalling.cs" />
+    <Compile Include="Topic5_OOPS\Inheritance1.cs" />
+    <Compile Include="Topic5_OOPS\Inheritance2.cs" />
+    <Compile Include="Topic5_OOPS\Methods_Calling_AnotherClass.cs" />
+    <Compile Include="Topic5_OOPS\Methods_inAnother_Class.cs" />
+    <Compile Include="Topic5_OOPS\Methods_Same_Class.cs" />
+    <Compile Include="Topic5_OOPS\ObjectKilling.cs" />
+    <Compile Include="Topic5_OOPS_Polymorphism\AbstractClasses.cs" />
+    <Compile Include="Topic5_OOPS_Polymorphism\ConstructorOverloading.cs" />
+    <Compile Include="Topic5_OOPS_Polymorphism\MethodHiding.cs" />
+    <Compile Include="Topic5_OOPS_Polymorphism\Overloading1.cs" />
+    <Compile Include="Topic5_OOPS_Polymorphism\Overriding1.cs" />
+    <Compile Include="Topic5_OOPS_Polymorphism\SealedKeyword.cs" />
+    <Compile Include="Topic6_InputOutParameters\InPutOutPut1.cs" />
+    <Compile Include="Topic6_InputOutParameters\InputOutput2.cs" />
+    <Compile Include="Topic7_Interface\Interface1.cs" />
+    <Compile Include="Topic7_Interface\Interface2.cs" />
+    <Compile Include="Topic7_Interface\Interface3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
